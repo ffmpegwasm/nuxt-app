@@ -1,7 +1,7 @@
 {
   "name": "@ffmpegwasm/nuxt-app",
   "description": "Awesome Nuxt 3 app 🥳",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "export NODE_OPTIONS=--openssl-legacy-provider; nuxi dev",
