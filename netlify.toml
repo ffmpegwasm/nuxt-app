@@ -1,0 +1,11 @@
+[dev]
+  command = "sleep 999999999"
+  framework = "#custom"
+  functions = ".output/server"
+  port = 8888
+  targetPort = 3000
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+  functions = ".output/server"
