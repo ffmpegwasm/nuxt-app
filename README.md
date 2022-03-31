@@ -1,6 +1,7 @@
 # FFMPEG :: Nuxt 3 🕺
 
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-green.svg)](https://conventionalcommits.org)
+[![CodeQL](https://img.shields.io/github/workflow/status/ffmpegwasm/nuxt-app/CodeQL?logo=github-actions&label=CodeQL)](https://github.com/ffmpegwasm/nuxt-app/actions/workflows/codeql.yml)
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ffmpegwasm/nuxt-app/ci?logo=github-actions)](https://github.com/ffmpegwasm/nuxt-app/actions/workflows/ci.yml)
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ffmpegwasm/nuxt-app/Ship%20js%20trigger?label=⛴%20Ship.js%20trigger)](https://github.com/ffmpegwasm/nuxt-app/actions/workflows/shipjs-trigger.yml)
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/ffmpegwasm/nuxt-app?sort=semver&logo=github)](https://github.com/ffmpegwasm/nuxt-app/releases)
