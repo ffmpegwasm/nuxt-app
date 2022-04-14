@@ -41,7 +41,7 @@
     "eslint-plugin-security": "^1.4.0",
     "husky": "^7.0.4",
     "lint-staged": "^12.3.7",
-    "nuxt-windicss": "^2.2.10",
+    "nuxt-windicss": "^2.2.11",
     "nuxt3": "latest",
     "prettier": "^2.6.2",
     "shipjs": "^0.24.4",
