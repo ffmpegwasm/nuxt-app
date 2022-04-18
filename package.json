@@ -45,7 +45,7 @@
     "nuxt3": "latest",
     "prettier": "^2.6.2",
     "shipjs": "^0.24.4",
-    "stylelint": "^14.7.0",
+    "stylelint": "^14.7.1",
     "stylelint-config-prettier": "^9.0.3",
     "stylelint-config-recommended-vue": "^1.4.0",
     "stylelint-config-standard": "^25.0.0",
