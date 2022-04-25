@@ -47,7 +47,7 @@ jobs:
         run: npm ci --prefer-offline --no-audit --unsafe-perm=true
 
       - name: Run linter(s) 👀
-        uses: wearerequired/lint-action@v1
+        uses: wearerequired/lint-action@v2
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           continue_on_error: false
