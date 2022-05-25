@@ -26,7 +26,7 @@
     "@ffmpeg/ffmpeg": "^0.10.1"
   },
   "devDependencies": {
-    "@commitlint/cli": "^16.3.0",
+    "@commitlint/cli": "^17.0.1",
     "@commitlint/config-conventional": "^16.2.4",
     "@ffmpeg/core": "^0.10.0",
     "@nuxt/types": "^2.15.8",
