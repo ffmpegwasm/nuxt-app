@@ -23,7 +23,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@ffmpeg/ffmpeg": "^0.10.1"
+    "@ffmpeg/ffmpeg": "^0.11.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.0.3",
