@@ -28,7 +28,7 @@
   "devDependencies": {
     "@commitlint/cli": "^17.0.3",
     "@commitlint/config-conventional": "^17.0.3",
-    "@ffmpeg/core": "^0.10.0",
+    "@ffmpeg/core": "^0.11.0",
     "@nuxt/types": "^2.15.8",
     "@typescript-eslint/eslint-plugin": "^5.34.0",
     "@typescript-eslint/parser": "^5.34.0",
