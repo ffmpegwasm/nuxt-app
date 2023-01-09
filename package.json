@@ -44,7 +44,7 @@
     "nuxt-windicss": "^2.5.2",
     "nuxt": "^3.0.0-rc.12",
     "prettier": "^2.8.1",
-    "shipjs": "^0.24.4",
+    "shipjs": "^0.25.1",
     "stylelint": "^14.15.0",
     "stylelint-config-prettier": "^9.0.3",
     "stylelint-config-recommended-vue": "^1.4.0",
